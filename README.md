@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jazminr07
+- 👋 Hi, I’m @jazminr01
 - 👀 I’m interested in back-end web development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on entry level projects.
